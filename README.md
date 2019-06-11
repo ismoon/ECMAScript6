@@ -1,8 +1,8 @@
 ﻿# ECMAScript6 정리(ECMAScript 7포함) 
 
 1. nvm 설치 후 Node lts 버전 설치
- nvm install --lts
- nvm use [version]
+ - nvm install --lts
+ - nvm use [version]
  
 2. 프로젝트 설정
  npm init
