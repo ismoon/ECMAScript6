@@ -1,4 +1,4 @@
-﻿# ECMAScript6 문법 정리 (ECMAScript 7 포) 
+﻿# ECMAScript6 정리(ECMAScript 7포함) 
 
 1. nvm 설치 후 Node lts 버전 설치
  nvm install --lts
