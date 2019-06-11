@@ -5,12 +5,12 @@
   - nvm use [version]
  
 2. 프로젝트 설정
- npm init
- npm install -g webpack webpack-cli
- npm install --save-dev @babel/core @babel/preset-env babel-loader
+  - npm init
+  - npm install -g webpack webpack-cli
+  - npm install --save-dev @babel/core @babel/preset-env babel-loader
  
 3. 실행 방법
- webpack
+  - webpack
 
 * 참조 사이트
  1) https://caniuse.com/
